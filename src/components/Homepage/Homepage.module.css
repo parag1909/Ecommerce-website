@@ -1,0 +1,24 @@
+.hero {
+  display: flex;
+  margin-top: 80px;
+  height: 100%;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: 800;
+  margin-bottom: 20px;
+}
+
+.description {
+  color: var(--GRAY, #5a5959);
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 600;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.left_section {
+  margin: 0 auto;
+}

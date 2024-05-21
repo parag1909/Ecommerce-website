@@ -12,6 +12,7 @@ const Cart = ({ cart, setCart }) => {
   };
   const handleCategoryClick = () => {
     navigate(`/products`);
+    console.log("hello")
   };
 
   if (cart.length > 0) {
